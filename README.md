@@ -29,9 +29,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [To Do list: interactive list] <a name="about-project"></a>
+# 📖 Leaderboard <a name="about-project"></a>
 
-This project is designed to help us understand JavaScript objects and how to utilize it. Also about using ECMASCRIPT 6 and importing Scripts.That it helps to add , delete and Save in local storage and retrive a to do list activity.
+This project Leaderboard App, where you can add your score and records. It allows you to edit and update scores list,The app is developed using HTML, CSS and Javascript
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -61,8 +61,7 @@ This project is designed to help us understand JavaScript objects and how to uti
 
 - **[ES6]**
 - **[Importing-Scripts]**
-- **[Adding and removing lists]**
-- **[making interactive to-do list]**
+- **[Adding and removing items]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -83,13 +82,13 @@ This project is designed to help us understand JavaScript objects and how to uti
 1.  Clone the Repo with:
 
 ```
-git clone https://github.com/znation2010/To-Do-list
+git clone https://github.com/znation2010/Leaderboard
 ```
 
 2. switch to the cloned directory
 
 ```
-cd To-Do-List
+cd Leaderboard
 ```
 
 ### Installation
@@ -140,7 +139,7 @@ To run tests, run the following command:
 
 > Features to be added:
 
-- [ ] **[Project: Accessibility and Contacts]**
+- [ ] **[API]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
